@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4RN1E
 - 👀 I’m interested in software engineering and development
-- 🌱 I’m currently learning how to use virtual machines with Linux and Ubuntu
+- 🌱 I’m currently learning full stack mobile app dev and web dev
 - 💞️ I’m looking to collaborate on any projects
 - 📫 You may reach me at moramdaarnold04@gmail.com
 - 😄 Pronouns: He/Him
