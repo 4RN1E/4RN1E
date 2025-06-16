@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and development
 - 🌱 I’m currently learning full stack mobile app dev and web dev
 - 💞️ I’m looking to collaborate on any projects
-- 📫 You may reach me at moramdaarnold04@gmail.com
+- 📫 You may reach me at arnoldmirandapino@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been driving since I was five years old.
 
