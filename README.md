@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4RN1E
+- 👋 Hi, I’m @4RN1E otherwise known as Arnold
 - 👀 I’m interested in software engineering and development
 - 🌱 I’m currently learning full stack mobile app dev and web dev
 - 💞️ I’m looking to collaborate on any projects
